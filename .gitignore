@@ -1,0 +1,12 @@
+*
+!.gitignore
+!README.md
+!requirements.txt
+!data/
+!data/*
+!images/
+!images/*
+!*.ipynb
+!*.py
+!*.fis
+!*.m

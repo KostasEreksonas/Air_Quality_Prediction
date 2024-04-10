@@ -1,0 +1,9 @@
+pandas
+pyarrow
+pydot
+numpy
+scikit-learn
+matplotlib
+jupyter
+scikit-fuzzy
+tensorflow[and-cuda]
